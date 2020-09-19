@@ -1,0 +1,23 @@
+{
+  "name": "leaderboard-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaybarpute/leaderboard-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaybarpute/leaderboard-service/issues"
+  },
+  "homepage": "https://github.com/akshaybarpute/leaderboard-service#readme",
+  "dependencies": {
+    "joi": "14.3.1"
+  }
+}
